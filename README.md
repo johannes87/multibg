@@ -11,7 +11,7 @@ If you have two background images, "foo.png" and "bar.png",
 the following will combine those two images into one, without distoring
 the images, and then set it as a background image:
 
-$ multibg.py foo.png bar.png
+    $ multibg.py foo.png bar.png
 
 Dependencies
 ------------
